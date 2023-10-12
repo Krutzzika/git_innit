@@ -5,6 +5,11 @@ ea commodo consequat.
 Suspendisse faucibus interdum posuere lorem ipsum. In hac habitasse platea dictumst vestibulum rhoncus. Ac placerat vestibulum lectus mauris ultrices eros in cursus.
 Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 Nunc eget lorem dolor sed viverra ipsum nunc aliquet bibendum.
 >>>>>>> 85dcd7b (feature_1 - change1)
+=======
+Nunc eget lorem dolor sed viverra ipsum nunc aliquet bibendum.
+Cursus mattis molestie a iaculis at erat pellentesque adipiscing commodo. Arcu cursus euismod quis viverra nibh
+>>>>>>> d159b1c (feature_1 - change 2)
